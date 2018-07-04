@@ -1,0 +1,122 @@
+{
+  "_class": "document",
+  "do_objectID": "A4FB2DC4-24FD-4A73-90EB-CCF821F035E4",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [],
+    "gradients": [],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {}
+    },
+    "images": []
+  },
+  "colorSpace": 0,
+  "currentPageIndex": 0,
+  "foreignLayerStyles": [],
+  "foreignSymbols": [],
+  "foreignTextStyles": [],
+  "layerStyles": {
+    "_class": "sharedStyleContainer",
+    "objects": []
+  },
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": []
+  },
+  "layerTextStyles": {
+    "_class": "sharedTextStyleContainer",
+    "objects": [{
+      "_class": "sharedStyle",
+      "do_objectID": "E63C7135-43AD-40FB-B82B-AADCA70DCA76",
+      "name": "H100",
+      "value": {
+        "_class": "style",
+        "endDecorationType": 0,
+        "miterLimit": 10,
+        "sharedObjectID": "E63C7135-43AD-40FB-B82B-AADCA70DCA76",
+        "startDecorationType": 0,
+        "textStyle": {
+          "_class": "textStyle",
+          "encodedAttributes": {
+            "MSAttributedStringFontAttribute": {
+              "_class": "fontDescriptor",
+              "attributes": {
+                "name": "AvenirNext-Bold",
+                "size": 11
+              }
+            },
+            "paragraphStyle": {
+              "_class": "paragraphStyle",
+              "maximumLineHeight": 12,
+              "minimumLineHeight": 12
+            },
+            "MSAttributedStringColorAttribute": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.55,
+              "green": 0.4664,
+              "red": 0.418
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "kerning": 0
+          },
+          "verticalAlignment": 0
+        }
+      }
+    }, {
+      "_class": "sharedStyle",
+      "do_objectID": "05BD4C07-41BE-4E10-A6E4-D4614C7EBDB5",
+      "name": "H200",
+      "value": {
+        "_class": "style",
+        "endDecorationType": 0,
+        "miterLimit": 10,
+        "sharedObjectID": "05BD4C07-41BE-4E10-A6E4-D4614C7EBDB5",
+        "startDecorationType": 0,
+        "textStyle": {
+          "_class": "textStyle",
+          "encodedAttributes": {
+            "MSAttributedStringFontAttribute": {
+              "_class": "fontDescriptor",
+              "attributes": {
+                "name": "AvenirNext-DemiBold",
+                "size": 12
+              }
+            },
+            "paragraphStyle": {
+              "_class": "paragraphStyle",
+              "alignment": 0,
+              "maximumLineHeight": 16,
+              "minimumLineHeight": 16,
+              "allowsDefaultTighteningForTruncation": 0
+            },
+            "MSAttributedStringColorAttribute": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.55,
+              "green": 0.4664,
+              "red": 0.418
+            },
+            "kerning": 0
+          },
+          "verticalAlignment": 0
+        }
+      }
+    }]
+  },
+  "pages": [{
+    "_class": "MSJSONFileReference",
+    "_ref_class": "MSImmutablePage",
+    "_ref": "pages\/908FE964-3292-4B92-9931-C6BD5BFB8E78"
+  }, {
+    "_class": "MSJSONFileReference",
+    "_ref_class": "MSImmutablePage",
+    "_ref": "pages\/5BF1510A-5E3F-4BDE-8B27-2067DB519E34"
+  }],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
